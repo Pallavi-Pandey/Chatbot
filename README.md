@@ -24,8 +24,7 @@ You can try the deployed app here: [AI Chat with Mistral Model](https://mistrala
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo-url/streamlit-mistral-chat.git
-    cd streamlit-mistral-chat
+    git clone https://github.com/Pallavi-Pandey/Chatbot.git
     ```
 
 2. Create a virtual environment and activate it:
