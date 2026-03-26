@@ -1,4 +1,4 @@
-# AI Chat with Mistral Model
+# Generic Chatbot
 
 This is a simple web application built using [Streamlit](https://streamlit.io/) and the [MistralAI model](https://huggingface.co/mistralai), designed to allow users to chat with an AI assistant. The app keeps track of the conversation history and enables users to reset the chat when needed.
 
